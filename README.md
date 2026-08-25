@@ -1,6 +1,6 @@
 ## 👋 G'day, I'm Ahsan ♋︎ 🦸‍♂
 
-I'm a Developer from Kashmir-JK 🌄. I work at [Axelerant](https://www.axelerant.com/) as a Frontend Engineer. I have a Bachelor of Engineering in Computer Science 💻 , and my primary focus and inspiration for my studies is Web Development. I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.
+I'm a Developer from Kashmir-JK 🌄. I work at [QED42](https://www.qed42.com/) as a Frontend Engineer. I have a Bachelor of Engineering in Computer Science 💻 , and my primary focus and inspiration for my studies is Web Development. I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.
 
 ### I use these bad boys to make stuff
 
